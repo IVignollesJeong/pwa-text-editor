@@ -55,6 +55,8 @@ Source code for the application can be found here: [PWA Text Editor code](https:
 
 ## Usage
 
+[Heroku Deployed Application Link](https://hidden-crag-78459-c5072bd38f82.herokuapp.com/)
+
 ```Heroku Deployed Application```
 ![JATE demo](https://github.com/IVignollesJeong/pwa-text-editor/assets/131202032/68836c15-ee60-427f-b0f6-cbf8325e2c8f)
 
